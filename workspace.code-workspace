@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "js",
+		"path": "../../../../Downloads/반응형 앱 공식사이트(App Official Landing)-시작하기 (1)/js"
+	},
+	{
+		"name": "images",
+		"path": "../../../../Downloads/반응형 앱 공식사이트(App Official Landing)-시작하기 (1)/images"
+	},
+	{
+		"name": "responsiveweb",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "responsiveweb"
+  }
+}

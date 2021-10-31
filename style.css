@@ -1,0 +1,70 @@
+/* Fontawesome 4.7 */
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+/* XEION CDN */
+@import url("http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css");
+
+/* Google Web Fonts CDN */
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,400,500,700,900&display=swap");
+/* font-family: 'Noto Sans KR', sans-serif; */
+
+@font-face {
+  font-family: "NEXON Lv2 Gothic";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv2 Gothic.woff")
+    format("woof");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
+button,
+input {
+  outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  font-weight: normal;
+  line-height: 1.5em;
+}
+body {
+  font-family: "NEXON Lv2 Gothic", sans-serif;
+  font-size: 18px;
+  line-height: 1.7em;
+  margin: 0;
+  background-color: #fff;
+  color: #222;
+}
+/* ################################## Header #########################*/
+header {
+}
+.header-inner {
+  width: 1300px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+.logo {
+  float: left;
+}
+.logo img {
+  margin-top: -7px;
+}
+.gnb {
+  float: right;
+}
+.gnb a {
+  margin: 10px;
+  font-size: 16px;
+}
+/* ################################## Section: welcome ##########################*/
